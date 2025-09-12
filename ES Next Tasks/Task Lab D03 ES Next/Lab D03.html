@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+</head>
+<style>
+    * {
+        /* border: 2px solid black; */
+        margin: auto;
+        /* text-align: center; */
+        background-color: white;
+    }
+
+    #h01ID {
+        text-align: center;
+        border-radius: 7px;
+        box-shadow: 7px 7px 7px 3px rgb(158, 158, 158);
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        height: 60px;
+        width: 90%;
+    }
+
+    .products {
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        justify-content: center;
+    }
+
+    .products_content {
+        flex: 0 0 calc(30.33% - 20px);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        padding: 15px;
+        background: #ffffff;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        height: 400px;
+    }
+
+    .products_content img {
+        max-width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .products_content button {
+        width: 220px;
+        padding: 10px 20px;
+        border: none;
+        background: rgb(0, 0, 255);
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+    .products_content button:hover {
+        background: rgb(84, 168, 0);
+    }
+
+    .products_content h3 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: larger;
+    }
+
+    .priceClass {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: larger;
+    }
+
+    .descriptionClass {
+        color: gray;
+        width: 350px;
+        white-space: noWrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>
+
+<body>
+    <h1 id="h01ID">🛍️ ITI E-Commerce App 🛍️</h1>
+    <br><br>
+    <div id="products" class="products"></div>
+
+    <!-- Cart Page -->
+    <div id="cart-page" style="display: none;">
+        <h1 id="h01ID ">🛒 Your Cart</h1>
+        <div id="cart-items"></div>
+        <button id="continue-shopping">Continue Shopping</button>
+        <button id="purchase">Purchase</button>
+    </div>
+
+    <script src="Lab D03.js"></script>
+</body>
+
+</html>
