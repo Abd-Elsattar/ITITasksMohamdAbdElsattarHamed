@@ -1,0 +1,4 @@
+Q1: C# is Object Oriented? (5 Marks)
+Q2: What is the size of int in C#? (5 Marks)
+Q1: C# is Object Oriented? (5 Marks)
+Q2: What is the size of int in C#? (5 Marks)

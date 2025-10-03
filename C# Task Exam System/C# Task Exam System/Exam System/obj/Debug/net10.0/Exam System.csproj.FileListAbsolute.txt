@@ -1,0 +1,14 @@
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\bin\Debug\net10.0\Exam System.exe
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\bin\Debug\net10.0\Exam System.deps.json
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\bin\Debug\net10.0\Exam System.runtimeconfig.json
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\bin\Debug\net10.0\Exam System.dll
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\bin\Debug\net10.0\Exam System.pdb
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.AssemblyInfoInputs.cache
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.AssemblyInfo.cs
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.csproj.CoreCompileInputs.cache
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.dll
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\refint\Exam System.dll
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.pdb
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\Exam System.genruntimeconfig.cache
+D:\Cources\ITI\C# & OOP\Advanced C#\Exam System Mini Project\Exam System\Exam System\obj\Debug\net10.0\ref\Exam System.dll
