@@ -12,14 +12,12 @@
             Student st01 = new Student("Abdelsattar");
             Student st02 = new Student("Hamed");
 
-            // ربط الأحداث (ExamStarted) بالطلبة
             practiceExam.ExamStarted += st01.OnExamStarted;
             practiceExam.ExamStarted += st02.OnExamStarted;
 
             finalExam.ExamStarted += st01.OnExamStarted;
             finalExam.ExamStarted += st02.OnExamStarted;
 
-            // إنشاء الأسئلة والإجابات
             TrueFalseQuestion q01 = new TrueFalseQuestion("Basic Math", "2 + 2 = 4?", 5);
             AnswerList q01Answers = new AnswerList
     {
